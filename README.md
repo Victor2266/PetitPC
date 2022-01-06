@@ -12,6 +12,7 @@ Steps To Install:
 3. Flash it onto your SD card. (Try Unzipping the image first)
 
 Minimum Requirements:
+
 The Download file is around 4gb, and when unzipped it takes about 8gb on the drive. I'd recommend atleast a 16gb SD card.
 
 Images:
