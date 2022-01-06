@@ -6,6 +6,14 @@ It's based on Raspbian 10 (Buster) Lite, with KDE Plasma installed ontop of it.
 Download it here:
 [https://mega.nz/file/xI02mTyD#g9rgLsHZ2F5NMWG-c3MB-kTM2K55aq8wu410fJpMez0]
 
+Steps To Install:
+1. Download an SD card flasher like https://www.balena.io/etcher/
+2. Download the OS image
+3. Flash it onto your SD card. (Try Unzipping the image first)
+
+Minimum Requirements:
+The Download file is around 4gb, and when unzipped it takes about 8gb on the drive. I'd recommend atleast a 16gb SD card.
+
 Images:
 ![Alt text](https://github.com/Victor2266/PetitPC/blob/main/piwiz1.png?raw=true "Initial Startup Wizard")
 ![Alt text](https://github.com/Victor2266/PetitPC/blob/main/StartMenu.png?raw=true "Start Menu")
