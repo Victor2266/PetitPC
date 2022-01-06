@@ -6,4 +6,4 @@ It's based on Raspbian 10 (Buster) Lite, with KDE Plasma installed ontop of it.
 Download it here:
 [Uploading link soon ...]
 
-![Alt text](PetitPC/piwiz1.png?raw=true "Title")
+![Alt text](main/piwiz1.png?raw=true "Title")
