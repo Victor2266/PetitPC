@@ -5,7 +5,7 @@ It's based on Raspbian 10 (Buster) Lite, with KDE Plasma installed ontop of it.
 
 
 Presentation Here:
-https://docs.google.com/presentation/d/1Xztk4R0dw75iqr7-ZR1YjWYfNGjZphiwbTs5IIKf6e8/edit?usp=sharing
+http://victordo.com/petit-pc/
 
 Download it here:
 [https://mega.nz/file/xI02mTyD#g9rgLsHZ2F5NMWG-c3MB-kTM2K55aq8wu410fJpMez0]
