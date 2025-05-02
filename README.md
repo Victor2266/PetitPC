@@ -1,6 +1,10 @@
 # PetitPC
 An operating system for Raspberry Pi, optimized for touchscreen and the elderly.
 
+Designed to be paired with the Raspberry Pi 400 and an affordable touchscreen Point of Sale monitor sourced from Alibaba.
+The OS was optimized so that it could be operated completely from the touchscreen like an IPad. This was because it was targeted toward elderly users. It would come with remote access software so that technicians would be able to help elderly users in case they needed it.
+It also came loaded with helpful widgets, and a productivity suite with typical office and email features.
+
 It's based on Raspbian 10 (Buster) Lite, with KDE Plasma installed ontop of it.
 
 
